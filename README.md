@@ -156,4 +156,6 @@ The following schematic diagrams illustrate three distinct embedded system archi
 
 ![Diagram C](./schematics/schema3.png)
 
+### Meeting Proof
+![Meeting](./schematics/Screenshot Proof.jpeg)
 ---
