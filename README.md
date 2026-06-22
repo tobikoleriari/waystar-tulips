@@ -160,7 +160,3 @@ The following schematic diagrams illustrate three distinct embedded system archi
 <!-- A 1N4007 flyback diode protects the relay coil. This architecture demonstrates actuation-triggered data flow between nodes. -->
 
 ![Diagram C](./schematics/schema3.png)
-
-### Meeting Proof
-![Meeting](./schematics/Screenshot Proof.jpeg)
----
