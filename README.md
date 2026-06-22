@@ -2,6 +2,11 @@
 ## Semester Project
 
 **Group Name:** Waystar  
+
+![Groupwork Evidence](screenshot.jpeg) 
+
+---
+
 **Course:** ICS 4111 — Embedded Systems & IoT (Apr–Jul 2026)  
 **Objective:** Identify requirements that support individual flower growth and develop schematic designs of embedded devices.
 
