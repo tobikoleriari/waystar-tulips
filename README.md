@@ -36,7 +36,9 @@ This deliverable focuses on transforming the schematics from Deliverable 1 into 
 
 ### Prototype Implementation
     
-![Architecture B Prototype](placeholder-to-architecture-b-evidence.png)
+![Physical Setup B](physicalB.jpeg)
+
+![Physical Setup B2](physicalB2.jpeg)
 
 ---
 
@@ -53,7 +55,7 @@ This deliverable focuses on transforming the schematics from Deliverable 1 into 
 ---
 
 ## Engineering Log: Prototyping Challenges & Debugging
-*Use this section to document any technical issues faced during implementation, satisfying the contingency requirement.*
+*This section documents any technical issues faced during implementation.*
 
 | Problem Identified | Solutions Explored | Recommended / Final Resolution | Status |
 | :--- | :--- | :--- | :--- |
